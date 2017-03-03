@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 api_key = None
 location = "Lleida"
-
+# escric per veure la diferencia al commit
 
 class WeatherClient(object):
     url_base = "http://api.wunderground.com/api/"
